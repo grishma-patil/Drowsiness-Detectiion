@@ -1,4 +1,5 @@
 ## ***Drowsiness Detection***
+
 A deep learning-based drowsiness detection system using OpenCV, TensorFlow, and dlib to monitor driver alertness in real-time.
 
 ## **Project Overview**
@@ -7,10 +8,10 @@ A deep learning-based drowsiness detection system using OpenCV, TensorFlow, and 
 
 ## **Features**
 
-* ✔ Real-time eye tracking using OpenCV & dlib
-* ✔ Deep learning-based CNN model for high accuracy
-* ✔ Facial landmark detection to analyze eye movements
-* ✔ Alarm system for drowsiness alerts
+*  Real-time eye tracking using OpenCV & dlib
+*  Deep learning-based CNN model for high accuracy
+*  Facial landmark detection to analyze eye movements
+*  Alarm system for drowsiness alerts
 
 ## **Dataset & Model**
 
@@ -19,11 +20,11 @@ A deep learning-based drowsiness detection system using OpenCV, TensorFlow, and 
 
 ## **How It Works?**
 
-* 1️⃣ Capture a video stream using OpenCV.
-* 2️⃣ Detect facial landmarks & extract eye coordinates.
-* 3️⃣ Calculate Eye Aspect Ratio (EAR) to monitor blink rate.
-* 4️⃣ Classify if the driver is drowsy or alert using the CNN model.
-* 5️⃣ Trigger an Alert if drowsiness is detected.
+*  Capture a video stream using OpenCV.
+*  Detect facial landmarks & extract eye coordinates.
+*  Calculate Eye Aspect Ratio (EAR) to monitor blink rate.
+*  Classify if the driver is drowsy or alert using the CNN model.
+*  Trigger an Alert if drowsiness is detected.
 
 ## **Model Performance**
 
